@@ -4,3 +4,9 @@ A sleek NFT marketplace frontend with modern UI components, responsive layouts, 
 ## Project Status
 
 🚧 This project is under active development. New features and improvements will be added regularly.
+
+## Features
+
+- Modern NFT Marketplace UI
+- Responsive Design
+- Clean Web3 Interface
