@@ -10,3 +10,10 @@ A sleek NFT marketplace frontend with modern UI components, responsive layouts, 
 - Modern NFT Marketplace UI
 - Responsive Design
 - Clean Web3 Interface
+
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
