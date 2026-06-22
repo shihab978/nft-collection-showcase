@@ -17,3 +17,5 @@ A sleek NFT marketplace frontend with modern UI components, responsive layouts, 
 - HTML5
 - CSS3
 - JavaScript
+
+Hollow NFT
