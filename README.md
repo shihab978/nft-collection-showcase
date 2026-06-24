@@ -19,3 +19,5 @@ A sleek NFT marketplace frontend with modern UI components, responsive layouts, 
 - JavaScript
 
 Hollow NFT
+
+NFTs season ccoming
