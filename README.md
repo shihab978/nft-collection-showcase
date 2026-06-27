@@ -21,3 +21,4 @@ A sleek NFT marketplace frontend with modern UI components, responsive layouts, 
 Hollow NFT
 
 NFTs season ccoming
+2026 will end nft
